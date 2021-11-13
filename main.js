@@ -1,7 +1,7 @@
+var intro = "My first console project";
+console.log(intro);
 var first_name = "Alyssa";
-console.log(first_name);
 var last_name = "Carson";
-console.log(last_name);
 var full_name = first_name.concat(last_name);
 console.log(full_name);
 var a = 20;
